@@ -1,7 +1,7 @@
 # LOG3550 – Devoir 2 : Backend FastAPI (API Bibliothèque)
 
 Auteur : [ANTOINE Heintz-Duckenson]
-Dépôt Git : [lien de votre dépôt]
+Dépôt Git : [https://github.com/duckeintz/LOG3550-devoir2]
 
 API REST (FastAPI + SQLModel + SQLite) qui gère les livres de la bibliothèque du devoir 1.
 
